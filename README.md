@@ -1,6 +1,6 @@
 <h2> 💻 🤓 Digital Innovation: Semana Frontend Inter - Desenvolvendo um aplicativo 📱 </h2>
 
-Nesta primeira aula vamos desenvolver um aplicativo para o gerenciamento de transações financeiras, criada utilizando o ambiente desenvovimento Visual Studio Code.
+Nesta primeira aula vamos iniciar o desenvolvimento de um aplicativo para o gerenciamento de transações financeiras, criada utilizando o ambiente desenvovimento Visual Studio Code.
 
 Durante a aula será desenvolvida a parte operacional do projeto. O Back-end fornece suporte aos serviços que serão acessados pelos usuários
 
