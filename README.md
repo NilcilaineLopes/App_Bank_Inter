@@ -21,7 +21,7 @@ yarn start:dev
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
 
 ```
-http://localhost:
+http://localhost:3333
 ```
 Dependencias nescessárias
 
